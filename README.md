@@ -1,0 +1,2 @@
+# votingapplicationusingdjangoframework
+voting application using django framework project
